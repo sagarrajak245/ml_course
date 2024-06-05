@@ -77,6 +77,12 @@ This course is designed to equip you with the skills needed to understand and ap
   - REST API for Model Inference
   - Deploying on Cloud Platforms
   - Monitoring and Updating Models
+    
+## For Theory Follow These reources:
+-**nptel courses**: <a href="https://nptel.ac.in/courses/106106139">professor balravindran IIT Madras</a>
+-**nptel courses**: <a href="https://nptel.ac.in/courses/108103192">professor MK. Bhuyan IIT Guwhati</a>
+
+
 
 ## Prerequisites
 
